@@ -6,6 +6,7 @@ FarmVerse/farmVerseApplication/target/
 FarmVerse/farmVerseApplication/.classpath
 FarmVerse/farmVerseApplication/.project
 FarmVerse/farmVerseApplication/.settings/
+FarmVerse/farmVerseApplication/src/main/resources/application.properties
 
 # Eclipse workspace
 FarmVerse/.metadata/

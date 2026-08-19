@@ -1,0 +1,51 @@
+# =========================
+# FarmVerse Backend
+# =========================
+
+FarmVerse/farmVerseApplication/target/
+FarmVerse/farmVerseApplication/.classpath
+FarmVerse/farmVerseApplication/.project
+FarmVerse/farmVerseApplication/.settings/
+
+# Eclipse workspace
+FarmVerse/.metadata/
+
+
+# =========================
+# FarmVerse Frontend
+# =========================
+
+farm-verse-front/node_modules/
+farm-verse-front/build/
+
+# Environment files
+farm-verse-front/.env
+farm-verse-front/.env.local
+farm-verse-front/.env.development.local
+farm-verse-front/.env.test.local
+farm-verse-front/.env.production.local
+
+
+# =========================
+# Other local folders
+# =========================
+
+.postman/
+postman/
+
+
+# =========================
+# General
+# =========================
+
+.env
+.env.*
+!.env.example
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+*.log
